@@ -20,7 +20,12 @@ I make this solutions for better understanding and readability. So, if you want 
 
 [Beee Codes](https://github.com/enqinsel/cssBattle.dev/blob/main/beeee.html)
 
-# Corona Virus
+# Corona Virus #47
 ![coronavirus](https://user-images.githubusercontent.com/76450122/177505295-3392e042-d356-445b-b9f3-e58651347a62.png)
 
 [Corona Virus Codes](https://github.com/enqinsel/cssBattle.dev/blob/main/coronaVirus.html)
+
+# Stay At Home #49
+![stayathome](https://user-images.githubusercontent.com/76450122/177513914-ec49468f-e208-48bc-b2da-47785e6c8c9c.png)
+
+[Stay At Home Codes](https://github.com/enqinsel/cssBattle.dev/blob/main/stayAtHome.html)
