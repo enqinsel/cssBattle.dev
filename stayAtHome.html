@@ -1,0 +1,54 @@
+<body>
+    <div class="stick"></div>
+    <div class="build">
+      <div class="door"></div>
+    </div>
+    <div class="triangle"></div>
+  </body>
+  
+  <style>
+    body{
+      background:#6592CF;
+    }
+    .build {
+      position:absolute;
+      width: 150px;
+      height: 100px;
+      background: #243D83;
+      top: 150;
+      left:125;
+      border-radius: 0px 0px 10px 10px;
+      z-index:-1;
+    }
+    .door{
+      position:fixed;
+      width: 50px;
+      height: 50px;
+      background: #EEB850;
+      top: 200;
+      left: 175;
+      border-radius: 10px 10px 0px 0px;
+    }
+    .stick{
+      position:absolute;
+      width: 100px;
+      height: 10px;
+      top:145px;
+      left:150px;
+      background: #EEB850;
+      border-radius: 50px 50px 50px 50px;
+        }
+    .triangle{
+      position:absolute;
+      width: 0;
+        height: 0;
+        border-left: 101px solid transparent;
+        border-right: 101px solid transparent;
+        border-bottom: 101px solid #243D83;
+      top:49;
+      left:99;
+      z-index:-1;
+    }
+  </style>
+  
+  
