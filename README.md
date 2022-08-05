@@ -39,3 +39,11 @@ I make this solutions for better understanding and readability. So, if you want 
 ![onePiece](https://user-images.githubusercontent.com/76450122/181459491-dfbeb9fd-b13a-44f1-8a59-81256b2e407e.png)
 
 [One Piece Codes](https://github.com/enqinsel/cssBattle.dev/blob/main/onePiece.html)
+
+# Baby #42
+![Ek Açıklama 2022-08-05 101001](https://user-images.githubusercontent.com/76450122/183022849-852c4fcb-9da4-4e16-a837-0b5d45ff244f.jpg)
+
+```
+<b><d class="f"><d class="h"></d></d><d class="e"></d><d class="m"></d></b><style>body{background-color:#293462;}.f {position: absolute;width:200;height:200;background:#FE5F55;left:100;top:50;border-radius:100px 100px 50px 50px;overflow:hidden;}.e{position:fixed;width:60;height:60;background:#FFF1C1;left:120;top:140;border-radius:50%;box-shadow:100px 0px#FFF1C1;}.m{position:fixed;width:40;height:10;background:#FFF1C1;left:180;top:220;border-radius:5px 5px;}.h{position:absolute;width:100;height:100;background:#FFF1C1;border-radius:50%;left:100;bottom:150;box-shadow: -100px 0px 0px#FFF1C1;}</style>
+```
+[Baby Codes](https://github.com/enqinsel/cssBattle.dev/blob/main/baby.html)
