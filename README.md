@@ -51,4 +51,10 @@ I make this solutions for better understanding and readability. So, if you want 
 # Skull #56
 ![skull](https://user-images.githubusercontent.com/76450122/184316020-ee1ff1da-d908-42d8-856b-abc1a6bf0f70.png)
 
-[Skull Codes](https://github.com/enqinsel/cssBattle.dev/blob/main/skull.html)
+Short Codes, 724 character;
+
+```
+<body><d class="f"></d><d class="m"></d><d class="t"></d><d class="n"></d><d class="e"></d></body><style>body{background:#191919;}.f{position:fixed;width:120;height:100;left:140;top:85;background:#4F77FF;border-radius:60px 60px 10px 10px;}.m{position:fixed;width:80;height:50;left:160;top:165;background:#4F77FF;border-radius:0px 0px 20px 20px;}.t{position:fixed;width:10;height:10;background:#191919;top:205;left:180;box-shadow:15px 0px 0px#191919,30px 0px 0px#191919;border-radius:5px 5px 0px 0px;}.n{position:fixed;width:20;height:20;background:#191919;border-radius:50%;top:175;left:190;}.e{position:fixed;width:40;height:40;background:#191919;border-radius:50%;top:138;left:155;box-shadow:50px 0px 0px#191919</style>
+```
+
+[Skull All Codes](https://github.com/enqinsel/cssBattle.dev/blob/main/skull.html)
